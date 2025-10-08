@@ -15,4 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedmusadev&show_icons=true&locale=en" alt="muhammedmusadev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedmusadev&" alt="muhammedmusadev" /></p>
-![Snake animation](https://raw.githubusercontent.com/MuhammedMusaDev/output/main/github-contribution-grid-snake.gif)
