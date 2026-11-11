@@ -1,13 +1,8 @@
 <h1 align="center">Hi there, I'm a Software Developer 🚀</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+%26+System+Architecture;Embedded+Systems+%26+Robotics;Passionate+Problem+Solver" alt="Typing SVG" />
-</p>
-
-<!-- Canlı Terminal / Animasyon Efekti -->
-<p align="center">
-  <img src="https://readme-types.vercel.app/api?lines=Compiling+embedded_core.cpp...;Linking+robotics_api.dll...;Build+successful!+0+errors,+1+warning;Initializing+SaaS+management+panels...&font=Fira+Code&center=true&width=650&height=75&background=1a1b26&color=38BDF8" alt="Terminal Animation" />
-</p>
+<h3 align="center">
+  <code>Full-Stack</code> &bull; <code>SaaS Architecture</code> &bull; <code>Embedded Systems & Robotics</code>
+</h3>
 
 ---
 
@@ -29,11 +24,10 @@ Yazılım geliştirme süreçlerine ve sistem mimarisine tutkuyla bağlı bir ge
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub İstatistikleri & Rozetler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedDegirmencay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedDegirmencay&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammedDegirmencay&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
 
 ---
