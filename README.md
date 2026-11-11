@@ -1,4 +1,4 @@
-<!-- Üst Banner (Eğer assets klasörüne banner.png atarsan görünür, atmazsan otomatik gizlenir) -->
+<!-- Üst Banner (assets klasörüne banner.png eklerseniz görünür) -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Developer Banner" />
 </p>
@@ -25,21 +25,20 @@ Yazılım dünyasının sınırlarını zorlayan, çok dilli bir yazılım geli�
 > *Yazılım dilleri ve teknolojileri konusunda geniş bir yelpazede aktif geliştirme yapıyorum.*
 
 <p align="center">
-  <!-- Programlama Dilleri Rozetleri -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <code>C++</code> &bull; 
+  <code>C#</code> &bull; 
+  <code>PHP</code> &bull; 
+  <code>JavaScript</code> &bull; 
+  <code>Java</code> &bull; 
+  <code>Lua</code> &bull; 
+  <code>HTML5</code> &bull; 
+  <code>CSS3</code> &bull; 
+  <code>TailwindCSS</code> &bull; 
+  <code>MySQL</code> &bull; 
+  <code>Firebase</code> &bull; 
+  <code>Arduino</code> &bull; 
+  <code>Git</code> &bull; 
+  <code>Blender (3D/CAD)</code>
 </p>
 
 ---
@@ -50,9 +49,9 @@ Yazılım dünyasının sınırlarını zorlayan, çok dilli bir yazılım geli�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammedDegirmencay&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
 
+<!-- Hatasız çalışan resmi GitHub Streak İstatistiği -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedDegirmencay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedDegirmencay&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedDegirmencay&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
 
 ---
