@@ -1,4 +1,4 @@
-<!-- Üst Banner (assets klasörüne banner.png eklerseniz görünür) -->
+<!-- Banner Görseli (assets/banner.png yolundan yüklenir) -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Developer Banner" />
 </p>
@@ -15,41 +15,41 @@
 
 ---
 
-### 💻 Hakkımda / About Me
+### Hakkımda / About Me
 
 Yazılım dünyasının sınırlarını zorlayan, çok dilli bir yazılım geliştiriciyim. Sadece kod yazmakla kalmıyor; uçtan uca sürdürülebilir **SaaS sistemleri**, **gömülü donanım entegrasyonları**, **oyun modları (FiveM/Lua)** ve **performans odaklı web/mobil uygulamalar** inşa ediyorum. Pratik mühendislik çözümleri üretmeyi ve yeni teknolojileri hızla öğrenip projelerime entegre etmeyi seviyorum.
 
 ---
 
-### 🚀 Yetkinlikler & Programlama Dilleri
-> *Yazılım dilleri ve teknolojileri konusunda geniş bir yelpazede aktif geliştirme yapıyorum.*
+### Yetkinlikler & Programlama Dilleri
+> *Aktif olarak kullandığım ve hakim olduğum programlama dilleri, teknolojiler ve araçlar:*
 
 <p align="center">
-  <code>C++</code> &bull; 
-  <code>C#</code> &bull; 
-  <code>PHP</code> &bull; 
+  <code>Python</code> &bull; 
   <code>JavaScript</code> &bull; 
+  <code>TypeScript</code> &bull; 
+  <code>C#</code> &bull; 
+  <code>C++</code> &bull; 
+  <code>PHP</code> &bull; 
   <code>Java</code> &bull; 
   <code>Lua</code> &bull; 
   <code>HTML5</code> &bull; 
   <code>CSS3</code> &bull; 
   <code>TailwindCSS</code> &bull; 
-  <code>MySQL</code> &bull; 
+  <code>SQL / MySQL</code> &bull; 
   <code>Firebase</code> &bull; 
-  <code>Arduino</code> &bull; 
   <code>Git</code> &bull; 
   <code>Blender (3D/CAD)</code>
 </p>
 
 ---
 
-### 📊 GitHub İstatistikleri
+### GitHub İstatistikleri
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammedDegirmencay&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
 
-<!-- Hatasız çalışan resmi GitHub Streak İstatistiği -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedDegirmencay&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
