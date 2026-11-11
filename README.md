@@ -1,4 +1,4 @@
-<h<h1 align="center">Hi there, I'm a Software Developer 🚀</h1>
+<h1 align="center">Hi there, I'm a Software Developer 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+%26+System+Architecture;Embedded+Systems+%26+Robotics;Passionate+Problem+Solver" alt="Typing SVG" />
@@ -32,11 +32,5 @@ Yazılım geliştirme süreçlerine ve sistem mimarisine tutkuyla bağlı bir ge
 </p>
 
 ---
-
-### 📬 İletişim & Bağlantılar
-
-###* **LinkedIn:** [Profiline Link Ver](https://linkedin.com)
-###* **Email:** [E-posta Adresin](mailto:ornek@email.com)
-###* **Web / Portfolyo:** [Site Adresin](https://websiten.com)
 
 > *"Kod yazmak sadece bilgisayara komut vermek değil, mantıklı ve sürdürülebilir sistemler inşa etmektir."*
