@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+%26+System+Architecture;Embedded+Systems+%26+Robotics;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
 
+<!-- Canlı Terminal / Animasyon Efekti -->
+<p align="center">
+  <img src="https://readme-types.vercel.app/api?lines=Compiling+embedded_core.cpp...;Linking+robotics_api.dll...;Build+successful!+0+errors,+1+warning;Initializing+SaaS+management+panels...&font=Fira+Code&center=true&width=650&height=75&background=1a1b26&color=38BDF8" alt="Terminal Animation" />
+</p>
+
 ---
 
 ### 💻 Hakkımda / About Me
