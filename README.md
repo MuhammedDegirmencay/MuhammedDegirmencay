@@ -1,6 +1,6 @@
-<!-- Banner Görseli (assets/banner.png yolundan yüklenir) -->
+<!-- Banner Görseli (assets/banner.gif olarak yükleyebilirsin) -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Developer Banner" />
+  <img src="assets/banner.gif" width="100%" alt="Developer Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Muhammed 👋</h1>
@@ -17,7 +17,7 @@
 
 ### Hakkımda / About Me
 
-Yazılım dünyasının sınırlarını zorlayan, çok dilli bir yazılım geliştiriciyim. Sadece kod yazmakla kalmıyor; uçtan uca sürdürülebilir **SaaS sistemleri**, **gömülü donanım entegrasyonları**, **oyun modları (FiveM/Lua)** ve **performans odaklı web/mobil uygulamalar** inşa ediyorum. Pratik mühendislik çözümleri üretmeyi ve yeni teknolojileri hızla öğrenip projelerime entegre etmeyi seviyorum.
+Yazılım dünyasının sınırlarını zorlayan, çok dilli bir yazılım geliştiriciyim. Sadece kod yazmakla kalmıyor; uçtan uca sürdürülebilir **SaaS sistemleri**, **gömülü donanım entegrasyonları** ve **performans odaklı web/mobil uygulamalar** inşa ediyorum. Pratik mühendislik çözümleri üretmeyi ve yeni teknolojileri hızla öğrenip projelerime entegre etmeyi seviyorum.
 
 ---
 
@@ -32,7 +32,6 @@ Yazılım dünyasının sınırlarını zorlayan, çok dilli bir yazılım geli�
   <code>C++</code> &bull; 
   <code>PHP</code> &bull; 
   <code>Java</code> &bull; 
-  <code>Lua</code> &bull; 
   <code>HTML5</code> &bull; 
   <code>CSS3</code> &bull; 
   <code>TailwindCSS</code> &bull; 
