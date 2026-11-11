@@ -27,8 +27,8 @@ Yazılım geliştirme süreçlerine ve sistem mimarisine tutkuyla bağlı bir ge
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedDegirmencay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedDegirmencay&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" alt="Top Languages" />
 </p>
 
 ---
