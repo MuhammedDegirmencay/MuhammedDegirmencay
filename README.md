@@ -1,17 +1,42 @@
-<h1 align="center">Hi 👋, I'm Muhammed Musa</h1>
-<h3 align="center">💻 Learning to develop applications with C# | 🌐 Learning web development | 🚀 Continuous improvement | 🎓 Şehit Ramazan Akyürek MTAL</h3>
+<h<h1 align="center">Hi there, I'm a Software Developer 🚀</h1>
 
-- 🔭 I’m currently working on **Education System**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+%26+System+Architecture;Embedded+Systems+%26+Robotics;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedmusadev&show_icons=true&locale=en&layout=compact" alt="muhammedmusadev" /></p>
+### 💻 Hakkımda / About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedmusadev&show_icons=true&locale=en" alt="muhammedmusadev" /></p>
+Yazılım geliştirme süreçlerine ve sistem mimarisine tutkuyla bağlı bir geliştiriciyim. Sadece kod yazmakla kalmıyor; uçtan uca sürdürülebilir, performans odaklı web uygulamaları, SaaS çözümleri ve donanım entegrasyonlu sistemler tasarlıyorum. Hem yazılım mimarisinde hem de gerçek dünyadaki pratik mühendislik problemlerine çözüm getiren projelerde aktif olarak yer alıyorum.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedmusadev&" alt="muhammedmusadev" /></p>
+---
+
+### 🛠️ Yetkinlikler & Teknoloji Yığını
+
+| Kategori | Teknolojiler & Araçlar |
+| :--- | :--- |
+| **Frontend & Web** | HTML5, CSS3, JavaScript (ES6+), TailwindCSS, Responsive Design, FiveM NUI |
+| **Backend & SaaS** | PHP, MySQL, Firebase, REST APIs, SaaS Management, Panel Architecture |
+| **Mobile & Desktop** | Java (Android Studio), Cross-platform solutions |
+| **Embedded & Hardware** | C/C++, Arduino, Microcontrollers, Sensor Integration (PID Control, QTR, etc.) |
+| **Tools & Environment** | Git, GitHub, Windows, XAMPP, Apache, Cloudflare Tunnels, Blender (3D/CAD) |
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 İletişim & Bağlantılar
+
+###* **LinkedIn:** [Profiline Link Ver](https://linkedin.com)
+###* **Email:** [E-posta Adresin](mailto:ornek@email.com)
+###* **Web / Portfolyo:** [Site Adresin](https://websiten.com)
+
+> *"Kod yazmak sadece bilgisayara komut vermek değil, mantıklı ve sürdürülebilir sistemler inşa etmektir."*
